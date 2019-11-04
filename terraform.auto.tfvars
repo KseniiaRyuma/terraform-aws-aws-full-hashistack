@@ -5,7 +5,7 @@
 owner = "exampleowner"
 region = "us-west-2"
 #primarynamespace = "primary-example-meanstack"
-secondarynamespace = "secondary-example-meanstack"
+#secondarynamespace = "secondary-example-meanstack"
 public_key = "ssh-rsa AAAAB3NzaC1y"
 servers = 3
 workers = 3
