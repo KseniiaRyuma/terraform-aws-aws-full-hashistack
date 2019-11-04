@@ -12,8 +12,8 @@ workers = 3
 vaultlicense = "aaaaaaaaaa"
 consullicense = "bbbbbbbbb"
 enterprise = false
-awsaccesskey = "asdasdawe"
-awssecretkey = "oi876ytgfre"
+#awsaccesskey = "asdasdawe"
+#awssecretkey = "oi876ytgfre"
 #---------------------------------------------------
 # To specify a version different from the default
 #---------------------------------------------------
