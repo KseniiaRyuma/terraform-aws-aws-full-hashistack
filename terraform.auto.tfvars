@@ -4,7 +4,7 @@
 # These variables should be set, at minimum. See `variables.tf` for others.
 owner = "exampleowner"
 region = "us-west-2"
-primarynamespace = "primary-example-meanstack"
+#primarynamespace = "primary-example-meanstack"
 secondarynamespace = "secondary-example-meanstack"
 public_key = "ssh-rsa AAAAB3NzaC1y"
 servers = 3
