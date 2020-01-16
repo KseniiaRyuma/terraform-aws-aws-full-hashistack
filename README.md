@@ -1,6 +1,6 @@
 # Provision a Best Practices HashiStack Cluster in AWS
 
-The goal of this guide is to allows users to easily provision a best practices HashiStack cluster in just a few commands.
+This Module allows Users to easily provision a Best Practice HashiStack cluster in their environment.
 
 ## Reference Material
 
@@ -25,7 +25,7 @@ There are many different ways to provision and configure an easily accessible be
 
 Provision a best practices HashiStack cluster in a private network with a bastion host.
 
-The AWS Best Practices HashiStack guide provisions a 3 node Consul, Vault, & Nomad cluster with a similar architecture to the [Quick Start](../quick-start) guide. The difference is this guide will setup TLS/encryption across Consul, Vault, & Nomad, and depends on pre-built images rather than runtime configuration. You can find the Packer templates to create the [Consul image](https://github.com/hashicorp/guides-configuration/blob/master/consul/consul-aws.json), [Vault image](https://github.com/hashicorp/guides-configuration/blob/master/vault/vault-aws.json), [Nomad image](https://github.com/hashicorp/guides-configuration/blob/master/nomad/nomad-aws.json) in the [Guides Configuration Repo](https://github.com/hashicorp/guides-configuration/).
+This Module provisions a 3-Node Consul, Vault, & Nomad cluster and will setup TLS/encryption across them. You can find the Packer templates to create the [Consul image](https://github.com/hashicorp/guides-configuration/blob/master/consul/consul-aws.json), [Vault image](https://github.com/hashicorp/guides-configuration/blob/master/vault/vault-aws.json), [Nomad image](https://github.com/hashicorp/guides-configuration/blob/master/nomad/nomad-aws.json) in the [Guides Configuration Repo](https://github.com/hashicorp/guides-configuration/).
 
 ## Prerequisites
 
