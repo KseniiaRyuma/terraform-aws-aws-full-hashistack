@@ -1,6 +1,6 @@
 # Provision a Best Practices HashiStack Cluster in AWS
 
-This Module allows Users to easily provision a Best Practice HashiStack cluster in their environment.
+This Module enables Users to provision a Best Practice HashiStack Cluster in a private network with a bastion host. The end result will be a 3-Node Consul, Vault, & Nomad Cluster, with TLS/encryption setup across them. 
 
 ## Reference Material
 
